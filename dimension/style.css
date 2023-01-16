@@ -1,0 +1,20 @@
+.rock{
+    max-height: 100px;
+    border:1px solid red; 
+    overflow: scroll;
+}
+
+.base{
+    margin:200px;
+    background-color: rgb(202, 255, 127);
+    border:2px solid red;
+    width:250px;
+    /* transform:rotate(45deg) ; */
+    /* transform: translate(30px,50px); */
+    /* transform: scale(2); */
+    transform: translate(500px);
+    /* transform: translateY(400px); */
+    
+
+    
+}
